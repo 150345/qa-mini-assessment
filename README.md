@@ -1,6 +1,6 @@
 # qa-mini-assessment
 QA Intern coding task solution
-# Test Execution Summary Parser
+# Test Execution Parser
 
 This program parses test execution result lines and produces a summary
 including pass/fail counts, per-test breakdown, invalid lines, and the
